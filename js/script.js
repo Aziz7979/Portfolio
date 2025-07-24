@@ -34,7 +34,7 @@ window.onscroll = () => {
 
     // remove toggle icon and navbar when click link (scroll)
     menuIcon.classList.remove('bx-x');
-    navbar.classList.remove('active');
+    navbar.classList.remove('active') ;
 };
 
 // scroll reveal 
